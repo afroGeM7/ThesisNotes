@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\ThesisNotes\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_note_list.xml",
+        "source": "D:\\ThesisNotes\\app\\src\\main\\res\\layout\\fragment_note_list.xml"
+    },
+    {
+        "merged": "D:\\ThesisNotes\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_list_notes.xml",
+        "source": "D:\\ThesisNotes\\app\\src\\main\\res\\layout\\item_list_notes.xml"
+    },
+    {
+        "merged": "D:\\ThesisNotes\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "D:\\ThesisNotes\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\ThesisNotes\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_note.xml",
+        "source": "D:\\ThesisNotes\\app\\src\\main\\res\\layout\\fragment_note.xml"
+    },
+    {
+        "merged": "D:\\ThesisNotes\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\content_main.xml",
+        "source": "D:\\ThesisNotes\\app\\src\\main\\res\\layout\\content_main.xml"
+    }
+]

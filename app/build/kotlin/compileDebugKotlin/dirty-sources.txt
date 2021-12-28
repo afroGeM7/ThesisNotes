@@ -1,0 +1,8 @@
+D:\ThesisNotes\app\src\main\java\com\gemmausiku\thesisnotes\MainActivity.kt
+D:\ThesisNotes\app\build\generated\source\navigation-args\debug\com\gemmausiku\thesisnotes\ui\NoteFragmentDirections.kt
+D:\ThesisNotes\app\build\generated\source\navigation-args\debug\com\gemmausiku\thesisnotes\ui\NoteListFragmentArgs.kt
+D:\ThesisNotes\app\src\main\java\com\gemmausiku\thesisnotes\data\ThesisNotesData.kt
+D:\ThesisNotes\app\src\main\java\com\gemmausiku\thesisnotes\data\DataManager.kt
+D:\ThesisNotes\app\src\main\java\com\gemmausiku\thesisnotes\ui\NoteListFragment.kt
+D:\ThesisNotes\app\src\main\java\com\gemmausiku\thesisnotes\data\Constants.kt
+D:\ThesisNotes\app\src\main\java\com\gemmausiku\thesisnotes\ui\NoteFragment.kt

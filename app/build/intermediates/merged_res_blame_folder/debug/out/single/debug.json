@@ -1,0 +1,118 @@
+[
+    {
+        "merged": "D:\\ThesisNotes\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_menu_camera.xml.flat",
+        "source": "D:\\ThesisNotes\\app\\src\\main\\res\\drawable\\ic_menu_camera.xml"
+    },
+    {
+        "merged": "D:\\ThesisNotes\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_menu_slideshow.xml.flat",
+        "source": "D:\\ThesisNotes\\app\\src\\main\\res\\drawable\\ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "D:\\ThesisNotes\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "D:\\ThesisNotes\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\ThesisNotes\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "D:\\ThesisNotes\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\ThesisNotes\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_block_24.xml.flat",
+        "source": "D:\\ThesisNotes\\app\\src\\main\\res\\drawable\\ic_block_24.xml"
+    },
+    {
+        "merged": "D:\\ThesisNotes\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\ThesisNotes\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\ThesisNotes\\app\\build\\intermediates\\merged_res\\debug\\layout_content_main.xml.flat",
+        "source": "D:\\ThesisNotes\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "D:\\ThesisNotes\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "D:\\ThesisNotes\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\ThesisNotes\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\ThesisNotes\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\ThesisNotes\\app\\build\\intermediates\\merged_res\\debug\\drawable_side_nav_bar.xml.flat",
+        "source": "D:\\ThesisNotes\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "D:\\ThesisNotes\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_menu_gallery.xml.flat",
+        "source": "D:\\ThesisNotes\\app\\src\\main\\res\\drawable\\ic_menu_gallery.xml"
+    },
+    {
+        "merged": "D:\\ThesisNotes\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "D:\\ThesisNotes\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\ThesisNotes\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\ThesisNotes\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\ThesisNotes\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "D:\\ThesisNotes\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\ThesisNotes\\app\\build\\intermediates\\merged_res\\debug\\navigation_nav_graph.xml.flat",
+        "source": "D:\\ThesisNotes\\app\\src\\main\\res\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "D:\\ThesisNotes\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_note.xml.flat",
+        "source": "D:\\ThesisNotes\\app\\src\\main\\res\\layout\\fragment_note.xml"
+    },
+    {
+        "merged": "D:\\ThesisNotes\\app\\build\\intermediates\\merged_res\\debug\\layout_item_list_notes.xml.flat",
+        "source": "D:\\ThesisNotes\\app\\src\\main\\res\\layout\\item_list_notes.xml"
+    },
+    {
+        "merged": "D:\\ThesisNotes\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_add_24.xml.flat",
+        "source": "D:\\ThesisNotes\\app\\src\\main\\res\\drawable\\ic_add_24.xml"
+    },
+    {
+        "merged": "D:\\ThesisNotes\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\ThesisNotes\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\ThesisNotes\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\ThesisNotes\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\ThesisNotes\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_add_24.xml.flat",
+        "source": "D:\\ThesisNotes\\app\\src\\main\\res\\drawable\\ic_baseline_add_24.xml"
+    },
+    {
+        "merged": "D:\\ThesisNotes\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\ThesisNotes\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\ThesisNotes\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\ThesisNotes\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\ThesisNotes\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_note_list.xml.flat",
+        "source": "D:\\ThesisNotes\\app\\src\\main\\res\\layout\\fragment_note_list.xml"
+    },
+    {
+        "merged": "D:\\ThesisNotes\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "D:\\ThesisNotes\\app\\src\\main\\res\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\ThesisNotes\\app\\build\\intermediates\\merged_res\\debug\\menu_menu_main.xml.flat",
+        "source": "D:\\ThesisNotes\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "D:\\ThesisNotes\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_assignment_24.xml.flat",
+        "source": "D:\\ThesisNotes\\app\\src\\main\\res\\drawable\\ic_assignment_24.xml"
+    },
+    {
+        "merged": "D:\\ThesisNotes\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\ThesisNotes\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\ThesisNotes\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "D:\\ThesisNotes\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
+    }
+]
