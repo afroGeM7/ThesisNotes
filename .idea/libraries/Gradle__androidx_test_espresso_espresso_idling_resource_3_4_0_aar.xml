@@ -1,9 +1,10 @@
 <component name="libraryTable">
   <library name="Gradle: androidx.test.espresso:espresso-idling-resource:3.4.0@aar">
     <CLASSES>
-      <root url="jar://C:/Program Files/Gradle/gradle-7.3/jdks/caches/transforms-3/ddd2b91452398e2eb63fe17cd8b36203/transformed/espresso-idling-resource-3.4.0/jars/classes.jar!/" />
       <root url="file://C:/Program Files/Gradle/gradle-7.3/jdks/caches/transforms-3/ddd2b91452398e2eb63fe17cd8b36203/transformed/espresso-idling-resource-3.4.0/res" />
-      <root url="file://C:/Program Files/Gradle/gradle-7.3/jdks/caches/transforms-3/ddd2b91452398e2eb63fe17cd8b36203/transformed/espresso-idling-resource-3.4.0/AndroidManifest.xml" />
+      <root url="jar://C:/Program Files/Gradle/gradle-7.3/jdks/caches/transforms-3/0b7382d13c90a8a26527063bdcfbd644/transformed/espresso-idling-resource-3.4.0/jars/classes.jar!/" />
+      <root url="file://C:/Program Files/Gradle/gradle-7.3/jdks/caches/transforms-3/0b7382d13c90a8a26527063bdcfbd644/transformed/espresso-idling-resource-3.4.0/AndroidManifest.xml" />
+      <root url="file://C:/Program Files/Gradle/gradle-7.3/jdks/caches/transforms-3/0b7382d13c90a8a26527063bdcfbd644/transformed/espresso-idling-resource-3.4.0/res" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://C:/Program Files/Gradle/gradle-7.3/jdks/caches/modules-2/files-2.1/androidx.test.espresso/espresso-idling-resource/3.4.0/69a300fcf8de2c433672d07a6c436a19dfb9b8f9/espresso-idling-resource-3.4.0-javadoc.jar!/" />

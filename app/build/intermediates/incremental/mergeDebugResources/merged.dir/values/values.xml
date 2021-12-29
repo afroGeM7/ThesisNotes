@@ -1231,7 +1231,7 @@
     <string name="fab">Floating Action Button</string>
     <string name="fab_transformation_scrim_behavior" translatable="false">com.google.android.material.transformation.FabTransformationScrimBehavior</string>
     <string name="fab_transformation_sheet_behavior" translatable="false">com.google.android.material.transformation.FabTransformationSheetBehavior</string>
-    <string name="first_fragment_label">First Fragment</string>
+    <string name="first_fragment_label">ThesisNotes</string>
     <string name="hello_first_fragment">Hello first fragment</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
     <string name="hide_bottom_view_on_scroll_behavior" translatable="false">com.google.android.material.behavior.HideBottomViewOnScrollBehavior</string>
@@ -1317,13 +1317,13 @@
     <string name="previous">Previous</string>
     <string name="recently_notes">Recently Notes</string>
     <string name="search_menu_title">Search</string>
-    <string name="second_fragment_label">Second Fragment</string>
+    <string name="second_fragment_label">Edit note</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="text_view">Text View</string>
     <string name="textview">Text Title</string>
     <string name="textview1">Text Course</string>
     <string name="title_activity_items">ItemsActivity</string>
-    <string name="title_activity_list">Notekeepr</string>
+    <string name="title_activity_list">ThesisNote</string>
     <style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/>
     <style name="AlertDialog.AppCompat.Light" parent="Base.AlertDialog.AppCompat.Light"/>
     <style name="AndroidThemeColorAccentYellow" ns1:ignore="NewApi">

@@ -1,9 +1,10 @@
 <component name="libraryTable">
   <library name="Gradle: com.google.android.apps.common.testing.accessibility.framework:accessibility-test-framework:3.1@aar">
     <CLASSES>
-      <root url="jar://C:/Program Files/Gradle/gradle-7.3/jdks/caches/transforms-3/31e5513129794b36337d1930b6dedd76/transformed/jetified-accessibility-test-framework-3.1/jars/classes.jar!/" />
       <root url="file://C:/Program Files/Gradle/gradle-7.3/jdks/caches/transforms-3/31e5513129794b36337d1930b6dedd76/transformed/jetified-accessibility-test-framework-3.1/res" />
-      <root url="file://C:/Program Files/Gradle/gradle-7.3/jdks/caches/transforms-3/31e5513129794b36337d1930b6dedd76/transformed/jetified-accessibility-test-framework-3.1/AndroidManifest.xml" />
+      <root url="file://C:/Program Files/Gradle/gradle-7.3/jdks/caches/transforms-3/856804f71ded62a6940b64925f5a0bf9/transformed/jetified-accessibility-test-framework-3.1/res" />
+      <root url="jar://C:/Program Files/Gradle/gradle-7.3/jdks/caches/transforms-3/856804f71ded62a6940b64925f5a0bf9/transformed/jetified-accessibility-test-framework-3.1/jars/classes.jar!/" />
+      <root url="file://C:/Program Files/Gradle/gradle-7.3/jdks/caches/transforms-3/856804f71ded62a6940b64925f5a0bf9/transformed/jetified-accessibility-test-framework-3.1/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://C:/Program Files/Gradle/gradle-7.3/jdks/caches/modules-2/files-2.1/com.google.android.apps.common.testing.accessibility.framework/accessibility-test-framework/3.1/a4effc83ebb1245462953f8c95f53001dca54ace/accessibility-test-framework-3.1-javadoc.jar!/" />
