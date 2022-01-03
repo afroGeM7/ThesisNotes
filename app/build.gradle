@@ -10,7 +10,7 @@ android {
 
 
     defaultConfig {
-        applicationId "com.example.notekeeper.gads2021"
+        applicationId "com.gemmausiku.thesisnotes"
         minSdk 26
         targetSdk 30
         versionCode 1
