@@ -66,7 +66,7 @@ public final class FragmentNoteListBinding implements ViewBinding {
         break missingId;
       }
 
-      id = R.id.list_Notes;
+      id = R.id.list_notes;
       ListView listNotes = ViewBindings.findChildViewById(rootView, id);
       if (listNotes == null) {
         break missingId;

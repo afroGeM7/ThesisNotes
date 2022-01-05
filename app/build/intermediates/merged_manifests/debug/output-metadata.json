@@ -4,7 +4,7 @@
     "type": "MERGED_MANIFESTS",
     "kind": "Directory"
   },
-  "applicationId": "com.example.notekeeper.gads2021",
+  "applicationId": "com.gemmausiku.thesisnotes",
   "variantName": "debug",
   "elements": [
     {
