@@ -5,8 +5,8 @@ object DataManager { // Data Manager is declared as an object to make it a singl
     val notes = ArrayList<NoteInfo>()
 
     init {   //initializer block
-        initializeChapters()
-        initializeNotes()
+        initializeChapters() //constructor body
+        initializeNotes()    //constructor body
     }
 
     private fun initializeChapters() {
