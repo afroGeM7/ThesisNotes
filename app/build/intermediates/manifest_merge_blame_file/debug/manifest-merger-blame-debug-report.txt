@@ -15,7 +15,7 @@
 12        android:allowBackup="true"
 12-->D:\ThesisNotes\app\src\main\AndroidManifest.xml:6:9-35
 13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-13-->[androidx.core:core:1.6.0] C:\Program Files\Gradle\gradle-7.3\jdks\caches\transforms-3\62e68803e5521916e8864aa1a5e72b77\transformed\core-1.6.0\AndroidManifest.xml:24:18-86
+13-->[androidx.core:core:1.6.0] C:\Users\Gemma Usiku\.gradle\caches\transforms-3\62e68803e5521916e8864aa1a5e72b77\transformed\core-1.6.0\AndroidManifest.xml:24:18-86
 14        android:debuggable="true"
 15        android:extractNativeLibs="false"
 16        android:fullBackupContent="true"

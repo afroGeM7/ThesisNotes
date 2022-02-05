@@ -4,7 +4,7 @@
             "outputFile": "D:\\ThesisNotes\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ldrtl-v17\\values-ldrtl-v17.xml",
             "map": [
                 {
-                    "source": "C:\\Program Files\\Gradle\\gradle-7.3\\jdks\\caches\\transforms-3\\ad2c1dc693ba18438d29ca23eb05a7f3\\transformed\\material-1.4.0\\res\\values-ldrtl-v17\\values-ldrtl-v17.xml",
+                    "source": "C:\\Users\\Gemma Usiku\\.gradle\\caches\\transforms-3\\ad2c1dc693ba18438d29ca23eb05a7f3\\transformed\\material-1.4.0\\res\\values-ldrtl-v17\\values-ldrtl-v17.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",
