@@ -7,7 +7,6 @@ import androidx.navigation.findNavController
 import androidx.navigation.ui.AppBarConfiguration
 import androidx.navigation.ui.navigateUp
 import androidx.navigation.ui.setupActionBarWithNavController
-i
 import androidx.navigation.fragment.NavHostFragment
 import com.gemmausiku.thesisnotes.databinding.ActivityMainBinding
 

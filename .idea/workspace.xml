@@ -405,7 +405,14 @@
       <option name="project" value="LOCAL" />
       <updated>1642398015583</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="deleted some import derivatives that were not in use">
+      <created>1644036455869</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1644036455875</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -414,6 +421,7 @@
     <MESSAGE value="Third Commit Thesis Notes project" />
     <MESSAGE value="Fourth Commit Thesis Notes project" />
     <MESSAGE value="Ffth Commit Thesis Notes project" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ffth Commit Thesis Notes project" />
+    <MESSAGE value="deleted some import derivatives that were not in use" />
+    <option name="LAST_COMMIT_MESSAGE" value="deleted some import derivatives that were not in use" />
   </component>
 </project>
